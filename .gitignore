@@ -194,4 +194,7 @@ cython_debug/
 .cursorindexingignoreAnaconda3-2022.05-Linux-x86_64.sh
 
 
-.Anaconda3-2022.05-Linux-x86_64.sh
+.Anaconda3-2022.05-Linux-x86_64.shmlruns/
+*.pkl
+artifacts/
+mlruns/
